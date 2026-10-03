@@ -1,0 +1,7 @@
+2026-10-01 10:00:01 INFO user nikita logged in
+2026-10-01 10:05:12 ERROR failed login for user admin
+2026-10-01 10:05:15 ERROR failed login for user admin
+2026-10-01 10:06:40 INFO user anna logged in
+2026-10-01 10:10:03 WARNING disk usage 85%
+2026-10-01 10:12:30 ERROR failed login for user root
+2026-10-01 10:15:00 INFO user nikita logged out
